@@ -1,5 +1,5 @@
 #!bin/bash/python
-#port scanner will scan an IP and tell us what ports are opwen
+#port scanner will scan an IP and tell us what ports are open
 
 #modules
 # you need the socket module to read ports
