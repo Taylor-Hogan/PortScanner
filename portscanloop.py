@@ -9,7 +9,7 @@ target = input("What IP do you want to scan ?  \n")
 
 #hardcode IP of test
 # command ifconfig | grep brodcast
-target= "192.168.1.111"
+#target= "192.168.1.111"
 
 #pass target IP to socket
 target_ip = socket.gethostbyname(target)
